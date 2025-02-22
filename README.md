@@ -30,5 +30,5 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pubmed-kinase-scraper.git
+   git clone https://github.com/IvinShajan/pubmed-kinase-scraper.git
    cd pubmed-kinase-scraper
